@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Repository**: [https://github.com/yourusername/mediqueue-ai](https://github.com/yourusername/mediqueue-ai)
+**Repository**: https://github.com/JivheshDharankar/MedAI-Ops.git
 
 ## How can I edit this code?
 
